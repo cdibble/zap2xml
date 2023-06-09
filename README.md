@@ -27,5 +27,5 @@ You can configure the following environment variables below:
 
 ### Build ARM image
 
-docker buildx build -t cddibble/zap2xml:0.1 -t cddibble/zap2xml:latest --platform linux/arm64 .
-GNU nano 5.4 /.cron/download_tv_guide.sh
+`docker buildx build -t cddibble/zap2xml:0.1 -t cddibble/zap2xml:latest --platform linux/arm64 .
+GNU nano 5.4 /.cron/download_tv_guide.sh`
